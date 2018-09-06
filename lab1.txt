@@ -1,0 +1,8 @@
+step 1.created account in github
+step 2.created directory 
+step 3.created repositery
+step 4.entered commands like ls,ls -1,pwd etc
+step 5.entered subl command
+step 6.created program
+step 7.executed.
+
